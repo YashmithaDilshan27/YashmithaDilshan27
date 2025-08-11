@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yashmitha Dilshan
-- 👀 I’m interested in Ai and Machine LEarning 
+- 👀 I’m interested in Ai and Machine Learning 
 - 🌱 I’m currently learning  At IIT 
 - 💞️ I’m looking to collaborate on Ml based or Cloud  based Projects 
 - 📫 You can Reach  me LinkedIn - https://www.linkedin.com/in/yashmitha-dilshan-428b03212/ 
